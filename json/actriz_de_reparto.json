@@ -1,0 +1,36 @@
+{
+	"Actor_de_reparto": {
+		"Actor": [
+			{
+				"Nombre": " Ganador: Allison Janney, por: ",
+				"Pelicula": " Yo, Tonya ",
+				"Imagen": "../Imágenes/allison janney.svg",
+				"Datos": " (Dayton, Ohio; 19 de noviembre de 1959) es una actriz estadounidense ganadora de un Premio Oscar, conocida por su papel de C.J. Cregg en el drama televisivo El ala oeste de la Casa \n\t\tBlanca por la que ganó cuatro premios Emmy.En 2013 participó en la serie Masters of Sex, por la que ganó un Emmy de actriz invitada en 2014; y desde el 2013 protagoniza la comedia Mom, papel \n\t\tque le ha granjeado un Emmy en 2014.\n\t\t"
+			},
+			{
+				"Nombre": " Mary J. Blige, por: ",
+				"Pelicula": " Mudbound ",
+				"Imagen": "../Imágenes/mary j. blige.svg",
+				"Datos": " (Bronx, Nueva York, 11 de enero de 1971) es una actriz y cantante estadounidense de R&B contemporáneo, de soul y hip-hop, influida por Chaka Khan, Aretha Franklin y Anita Baker \n\t\tentre otras muchas figuras de la música soul.En 2012 destacó su participación en la película \"La Era del Rock\". En 2014 colaboró con el artista Sam Smith en su single 'Stay With Me'\n\t\t"
+			},
+			{
+				"Nombre": " Lesley Manville, por: ",
+				"Pelicula": " El hilo invisible ",
+				"Imagen": "../Imágenes/lesley manville.svg",
+				"Datos": " (Brighton, 12 de marzo de 1956) es una actriz inglesa de teatro, cine y televisión. ha sido galardonada como la actriz británica del año por el London Critics Circle (Círculo de \n\t\tcríticos de Londres) por sus papeles en All or Nothing (2002) y Another Year (2010), por el que también fue nominada a un Premio BAFTA a la mejor actriz de reparto4 y recibió un National \n\t\tBoard of Review a la Mejor Actriz, ambos en 2010\n\t\t"
+			},
+			{
+				"Nombre": " Laurie Metcalf, por: ",
+				"Pelicula": " Lady Bird ",
+				"Imagen": "../Imágenes/laurie metcalf.svg",
+				"Datos": " (Carbondale, Illinois, EE. UU., 16 de junio de 1955), más conocida como Laurie Metcalf, es una actriz estadounidense. Es conocida por interpretar los papeles de Jackie Harris en la \n\t\tserie de la ABC Roseanne, Mary Cooper en The Big Bang Theory, la Sra. Davis en la serie de películas de animación de Pixar Toy Story y Debbie Salt en Scream 2. Galardonada con tres premios \n\t\tEmmy, ha sido nominada también nominada a un Premio Óscar, a tres Globos de Oro, un premio Tony y premio del Sindicato de Actores.\n\t\t"
+			},
+			{
+				"Nombre": " Octavia Spencer, por: ",
+				"Pelicula": " La Forma del Agua ",
+				"Imagen": "../Imágenes/Octavia Spencer.svg",
+				"Datos": " (Montgomery, Alabama; 25 de mayo de 1970) es una actriz, directora, productora y guionista estadounidense de cine y televisión. Ganadora de un Premio Óscar, un Globo de Oro, un BAFTA \n\t\ty un Premio del Sindicato de Actores.2​3​4​5​. Ha participado en películas como Coach Carter (2005), Pulse (2006), The Help (2011) y Hidden Figures (2016). Asimismo también ha participado en \n\t\tvarios capítulos de la versión estadounidense de Ugly Betty en 2007\n\t\t"
+			}
+		]
+	}
+}

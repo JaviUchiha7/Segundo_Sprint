@@ -1,0 +1,33 @@
+{
+	"award": {
+		"@year": 2004,
+		"bestPicture": [
+			{
+				"picture": "Million Dollar Baby",
+				"person": "Clint Eastwood",
+				"person1": "Albert S. Ruddy",
+				"person2": "Tom Rosenberg"
+			},
+			{
+				"picture": "Finding Neverland",
+				"person": "Richard N. Gladstein",
+				"person1": "Nellie Bellflower"
+			},
+			{
+				"picture": "The Aviator",
+				"person": "Michael Mann",
+				"person1": "Graham King"
+			},
+			{
+				"picture": "Ray",
+				"person": "Taylor Hackford",
+				"person1": "Stuart Benjamin",
+				"person2": "Howard Baldwin"
+			},
+			{
+				"picture": "Sideways",
+				"person": "Michael London"
+			}
+		]
+	}
+}

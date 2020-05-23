@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Actor_de_reparto SYSTEM "..\DTD\actor_de_reparto.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xsl\actor_de_reparto.xsl"?>
+<Actor_de_reparto>
+	<Actor>
+		<Nombre> Ganador: Woody Harrelson, por: </Nombre>
+		<Pelicula> Tres anuncios en las afueras </Pelicula>
+		<Imagen>../Imágenes/woody harrelson.svg</Imagen>
+		<Datos> (Midland, Texas, 23 de julio de 1961), más conocido como Woody Harrelson, es un actor estadounidense de cine y televisión conocido por su papel del camarero Woody Boyd en la serie 				
+		Chee	rs de los años 1980, con la que consiguió un premio Emmy. También ha actuado en películas como Natural Born Killers, The People vs. Larry Flynt (por la que estuvo nominado al Oscar 
+		almejor actor), la adaptación cinematográfica de Una mirada a la oscuridad y en la aclamada serie rue Detective
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Willem Dafoe, por: </Nombre>
+		<Pelicula> The Florida Project </Pelicula>
+		<Imagen>../Imágenes/willem dafoe.svg</Imagen>
+		<Datos> (Appleton, Wisconsin, 22 de julio de 1955) es un actor estadounidense de cine y teatro, coproductor y miembro fundador de la compañía teatral The Wooster Group.Nominado en tres 
+		ocasiones al premio Oscar como mejor actor de reparto, ha tenido papeles en películas como To Live and Die in L.A., Platoon, Nacido el 4 de julio, La última tentación de Cristo, Mississippi 
+		Burning, Wild at Heart, The Boondock Saints, El paciente inglés, Inside Man, The Life Aquatic
+		with Steve Zissou, Spider-Man, y le prestó su voz a personajes de Buscando a Nemo y a Nathan
+		Dawkins en el videojuego Beyond: Two Souls; en este último también se utilizó su rostro para la caracterización del personaje.
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Richard Jenkins, por: </Nombre>
+		<Pelicula> La forma del agua </Pelicula>
+		<Imagen>../Imágenes/Richard Jenkis.svg</Imagen>
+		<Datos> (DeKalb, Illinois, Estados Unidos, 4 de mayo de 1947) es un actor estadounidense.Entre sus trabajos más recientes destacan dramas (En tierra de hombres), e incluso ciencia ficción (El 
+		núcleo). Y en su currículum tiene colaboraciones con Sydney Pollack (Random Hearts), David O. Russell (Extrañas coincidencias) y Rob Reiner (Rumor Has It...).Pero el papel que le reportaría 
+		la verdadera fama fue el del Profesor Walter Vale en la película de Thomas McCarthy The Visitor (2007)
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Christopher Plummer, por: </Nombre>
+		<Pelicula> Todo el dinero del mundo </Pelicula>
+		<Imagen>../Imágenes/Chistofer plummber.svg</Imagen>
+		<Datos> (Toronto, Ontario, Canadá, 13 de diciembre de 1929) es un prolífico actor canadiense ganador de los cuatro principales galardones interpretativos de Estados Unidos: Oscar, Emmy, Globo 
+		de Oro y Tony.Entre sus últimos y notables trabajos, hay que citar El imaginario del Doctor Parnassus de Terry Gilliam, y Beginners, donde encarna a un anciano viudo que desvela a su hijo que 
+		es homosexual. Por este trabajo ganó un Globo de Oro y el Oscar al mejor actor secundario.
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Sam Rockwell, por: </Nombre>
+		<Pelicula> Tres anuncios en las afueras </Pelicula>
+		<Imagen>../Imágenes/Sam Rockwell.svg</Imagen>
+		<Datos> (Daly City, California, 5 de noviembre de 1968) es un actor estadounidense, ganador de un Óscar, un Globo de Oro, un BAFTA y un Premio del Sindicato de Actores al mejor actor de 
+		reparto por su papel en la película Three Billboards Outside Ebbing, Missouri. Es conocido como protagonista de películas como Lawn Dogs, Confessions of a Dangerous Mind, Choke y Moon, y ha 
+		tenido papeles destacados en cintas como The Green Mile, Galaxy Quest, Clownhouse, Frost/Nixon, The Hitchhiker's Guide to the Galaxy, Matchstick Men, Todos están bien, El asesinato de Jesse 
+		James por el cobarde Robert Ford y Iron Man 2
+		</Datos>
+	</Actor>
+</Actor_de_reparto>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Actor_de_reparto SYSTEM "..\DTD\actriz_de_reparto.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xsl\actriz_de_reparto.xsl"?>
+<Actor_de_reparto>
+	<Actor>
+		<Nombre> Ganador: Allison Janney, por: </Nombre>
+		<Pelicula> Yo, Tonya </Pelicula>
+		<Imagen>../Imágenes/allison janney.svg</Imagen>
+		<Datos> (Dayton, Ohio; 19 de noviembre de 1959) es una actriz estadounidense ganadora de un Premio Oscar, conocida por su papel de C.J. Cregg en el drama televisivo El ala oeste de la Casa 
+		Blanca por la que ganó cuatro premios Emmy.En 2013 participó en la serie Masters of Sex, por la que ganó un Emmy de actriz invitada en 2014; y desde el 2013 protagoniza la comedia Mom, papel 
+		que le ha granjeado un Emmy en 2014.
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Mary J. Blige, por: </Nombre>
+		<Pelicula> Mudbound </Pelicula>
+		<Imagen>../Imágenes/mary j. blige.svg</Imagen>
+		<Datos> (Bronx, Nueva York, 11 de enero de 1971) es una actriz y cantante estadounidense de R&amp;B contemporáneo, de soul y hip-hop, influida por Chaka Khan, Aretha Franklin y Anita Baker 
+		entre otras muchas figuras de la música soul.En 2012 destacó su participación en la película "La Era del Rock". En 2014 colaboró con el artista Sam Smith en su single 'Stay With Me'
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Lesley Manville, por: </Nombre>
+		<Pelicula> El hilo invisible </Pelicula>
+		<Imagen>../Imágenes/lesley manville.svg</Imagen>
+		<Datos> (Brighton, 12 de marzo de 1956) es una actriz inglesa de teatro, cine y televisión. ha sido galardonada como la actriz británica del año por el London Critics Circle (Círculo de 
+		críticos de Londres) por sus papeles en All or Nothing (2002) y Another Year (2010), por el que también fue nominada a un Premio BAFTA a la mejor actriz de reparto4 y recibió un National 
+		Board of Review a la Mejor Actriz, ambos en 2010
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Laurie Metcalf, por: </Nombre>
+		<Pelicula> Lady Bird </Pelicula>
+		<Imagen>../Imágenes/laurie metcalf.svg</Imagen>
+		<Datos> (Carbondale, Illinois, EE. UU., 16 de junio de 1955), más conocida como Laurie Metcalf, es una actriz estadounidense. Es conocida por interpretar los papeles de Jackie Harris en la 
+		serie de la ABC Roseanne, Mary Cooper en The Big Bang Theory, la Sra. Davis en la serie de películas de animación de Pixar Toy Story y Debbie Salt en Scream 2. Galardonada con tres premios 
+		Emmy, ha sido nominada también nominada a un Premio Óscar, a tres Globos de Oro, un premio Tony y premio del Sindicato de Actores.
+		</Datos>
+	</Actor>
+	<Actor>
+		<Nombre> Octavia Spencer, por: </Nombre>
+		<Pelicula> La Forma del Agua </Pelicula>
+		<Imagen>../Imágenes/Octavia Spencer.svg</Imagen>
+		<Datos> (Montgomery, Alabama; 25 de mayo de 1970) es una actriz, directora, productora y guionista estadounidense de cine y televisión. Ganadora de un Premio Óscar, un Globo de Oro, un BAFTA 
+		y un Premio del Sindicato de Actores.2​3​4​5​. Ha participado en películas como Coach Carter (2005), Pulse (2006), The Help (2011) y Hidden Figures (2016). Asimismo también ha participado en 
+		varios capítulos de la versión estadounidense de Ugly Betty en 2007
+		</Datos>
+	</Actor>
+</Actor_de_reparto>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (x64) (http://www.altova.com) -->
+<!ELEMENT award (bestPicture+)>
+<!ATTLIST award
+	year CDATA #FIXED "2004"
+>
+<!ELEMENT person (#PCDATA)>
+<!ELEMENT person1 (#PCDATA)>
+<!ELEMENT person2 (#PCDATA)>
+<!ELEMENT picture (#PCDATA)>
+<!ELEMENT bestPicture (picture, person, (person1, person2?)?)>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE award SYSTEM "..\DTD\externo.dtd">
+<?xml-stylesheet type="text/xsl" href="..\xsl\externo.xsl"?>
+<award year="2004">
+	<bestPicture>
+		<picture>Million Dollar Baby</picture>
+		<person>Clint Eastwood</person>
+		<person1>Albert S. Ruddy</person1>
+		<person2>Tom Rosenberg</person2>
+	</bestPicture>
+	<bestPicture>
+		<picture>Finding Neverland</picture>
+		<person>Richard N. Gladstein</person>
+		<person1>Nellie Bellflower</person1>
+	</bestPicture>
+	<bestPicture>
+		<picture>The Aviator</picture>
+		<person>Michael Mann</person>
+		<person1>Graham King</person1>
+	</bestPicture>
+	<bestPicture>
+		<picture>Ray</picture>
+		<person>Taylor Hackford</person>
+		<person1>Stuart Benjamin</person1>
+		<person2>Howard Baldwin</person2>
+	</bestPicture>
+	<bestPicture>
+		<picture>Sideways</picture>
+		<person>Michael London</person>
+	</bestPicture>
+</award>

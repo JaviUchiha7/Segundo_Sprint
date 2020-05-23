@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- DTD generado con XMLSpy v2020 rel. 2 (x64) (http://www.altova.com) -->
+<!ELEMENT Actor (Nombre, Pelicula, Imagen, Datos)>
+<!ELEMENT Datos (#PCDATA)>
+<!ELEMENT Imagen (#PCDATA)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Pelicula (#PCDATA)>
+<!ELEMENT Actor_de_reparto (Actor+)>

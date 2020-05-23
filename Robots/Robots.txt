@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: 
+Disallow: /Imágenes
+Disallow: /html
+Disallow: /Fuentes
